@@ -1,3 +1,10 @@
+/*
+ * File Name: Assignment13_kchung1351487
+ * Author: Kaedon Chung
+ * Date: August 27, 2021
+ * Description: Print out company logo
+ */
+
 public class Assignment13_kchung1351487 {
     public static void main(String[] args) {
         System.out.println("-------------------------------------------------------");
